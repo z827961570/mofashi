@@ -1,0 +1,31 @@
+{
+  "_comments": {
+    "video_duration": "视频时长（秒）",
+    "progress_color": "进度条颜色 (B, G, R)",
+    "background_color": "进度条底色 (B, G, R)",
+    "bar_dimension": "进度条长度或高度",
+    "bar_width": "进度条宽度或高度",
+    "chapters": "章节分隔时间点列表",
+    "chapter_titles": "章节标题列表",
+    "chapter_separator_color": "章节分隔符颜色 (B, G, R)，默认为白色"
+  },
+  "output_file": "progress_bar_video.avi",
+  "video_duration": 15,
+  "progress_color": [202, 142, 172],
+  "background_color": [163, 130, 71],
+  "bar_dimension": 1920,
+  "bar_width": 40,
+  "chapters": [5, 8, 12],
+  "chapter_titles": [
+    "开篇",
+    "去除广告",
+    "New bing Anywhere",
+    "登陆小号"
+  ],
+  "chapter_separator_color": [255, 255, 255],
+  "is_horizontal": true,
+  "is_reversed": false,
+  "title_font": "C:\\Windows\\Fonts\\msyh.ttc",
+  "title_font_size": 12,
+  "title_font_color": [255, 255, 255]
+}
